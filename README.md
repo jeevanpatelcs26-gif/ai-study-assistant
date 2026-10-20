@@ -1,5 +1,5 @@
-Live demo: https://your-app-name.streamlit.app
-https://ai-study-assistant-3wz6235jkei9acvafxewv7.streamlit.app/
+Live demo: htthttps://ai-study-assistant-3wz6235jkei9acvafxewv7.streamlit.app/
+
 \# AI Study Assistant
 
 
