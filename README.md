@@ -1,4 +1,5 @@
 Live demo: htthttps://ai-study-assistant-3wz6235jkei9acvafxewv7.streamlit.app/
+Code: github.com/jeevanpatelcs26-gif/ai-study-assistant
 
 \# AI Study Assistant
 
